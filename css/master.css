@@ -1,0 +1,90 @@
+
+body {
+  margin : 10px;
+}
+
+header {
+  min-height: 100vh;
+  padding: 4em;
+  background-color: rgb(0, 71, 71);
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   }
+
+
+   #fable02 {
+     min-height: 60vh;
+     background: #428A42 url('images/foret.jpg') top center no-repeat;
+    background-size: cover;
+     background-attachment: fixed;
+     overflow: hidden;
+     padding: 42px;
+   }
+
+
+
+   #fable02 .text-content {
+     background: rgb(206, 224, 206);
+     padding: 42px;
+     margin-top : 0;
+     margin-right : auto;
+     margin-bottom : 0;
+     margin-left : auto;
+     max-width: 330px;
+        }
+
+
+        #fable03 {
+          min-height: 80vh;
+          background: #428A42 url('images/tortue.jpg') top center no-repeat;
+         background-size: cover;
+          background-attachment: fixed;
+          overflow: hidden;
+          padding: 22px;
+            }
+
+
+
+        #fable03 p {
+       background: rgb(223, 235, 235);
+       color: #06BFB9;
+      padding: 50px;
+       margin-top : 0;
+       margin-right : auto;
+       margin-bottom : 0;
+       margin-left : auto;
+       max-width: 800px;
+          }
+
+
+
+     #fable04 {
+      background: #D19F82 url('images/snake.jpg')
+       display: flex;
+       flex-direction: column;
+       justify-content: space-around;
+       align-items: center;
+       text-align: center;
+        background:#000000 ;
+
+     }
+
+     #fable04 p {
+
+
+       max-width: 2180px;
+       text-align: center;
+
+       letter-spacing: 0em;
+       line-height: 3.5;
+       text-align: center;
+       background:#000000;
+     }
+
+     #fable04 .fable-moral {
+      text-align: center;
+      color: #8C7554
+
+      }
